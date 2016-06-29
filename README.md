@@ -1,4 +1,3 @@
-Fork of the tt-sport-mobile project.
 Take snapshots of React Native views (and their children) and write to device storage.
 
 ## Installation
