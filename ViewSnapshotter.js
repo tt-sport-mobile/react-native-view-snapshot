@@ -1,5 +1,6 @@
 'use strict';
 
-import ViewSnapshotter from './ViewSnapshotter';
+import { NativeModules } from 'react-native';
+var ViewSnapshotter = NativeModules.ViewSnapshotter;
 
 module.exports = ViewSnapshotter;
